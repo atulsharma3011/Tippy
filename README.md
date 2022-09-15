@@ -25,6 +25,6 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='   ' width="250" height="500"/>
+<img src='https://github.com/atulsharma3011/Tippy/blob/main/TippyGif.gif' width="250" height="500"/>
 
 
